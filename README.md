@@ -7,8 +7,8 @@
 Este repositório contém códigos, exemplos e exercícios desenvolvidos em **C** para a disciplina de **Algoritmos**.
 
 ## 📂 Estrutura do Repositório  
-- **/exemplos_e_testes**: Implementações de conceitos fundamentais (como laços, funções e recursão).  
-- **/exercicios**: Listas de exercícios propostos durante as aulas.  
+- **/exemplos_e_testes**: Implementações de conceitos fundamentais e codigos de aulas.  
+- **/exercicios**: Listas de exercícios propostos na disciplina.  
 - **/projetos**: Projetos maiores ou avaliações práticas.  
 - **/docs**: Material de apoio, como slides e PDFs.  
 
