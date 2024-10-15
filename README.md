@@ -29,3 +29,9 @@ Este repositório contém códigos, exemplos e exercícios desenvolvidos em **C*
    gcc nome_do_programa.c -o programa
    ./programa
 
+## livros recomendados
+- entendendo algoritimos
+
+### acesse minha biblioteca GIT
+[GIT_library](https://github.com/matiaslog/GIT_Library.git)
+
