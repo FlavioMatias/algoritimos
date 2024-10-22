@@ -33,6 +33,6 @@ Este repositório contém códigos, exemplos e exercícios desenvolvidos em **C*
 ## livros recomendados
 - entendendo algoritimos
 
-### acesse minha biblioteca GIT
+#### acesse minha biblioteca GIT
 [GIT_library](https://github.com/matiaslog/GIT_Library.git)
 
