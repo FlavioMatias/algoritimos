@@ -2,6 +2,7 @@
 
 **Repositório dedicado à disciplina de Algoritmos**  
 **Curso:** TADS - IFRN | **Ano:** 2024  
+[repositorio do professor](https://github.com/placidoneto/algoritmos-lecture)
 
 ## 📋 Descrição  
 Este repositório contém códigos, exemplos e exercícios desenvolvidos em **C** para a disciplina de **Algoritmos**.
