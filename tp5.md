@@ -1,8 +1,6 @@
-# Questões de Notação Big-O
-
 ## Questão 1
 - **Notação Big-O**: O(1)
-- **Quantidade de Operações**: 15
+- **Quantidade de Operações**: 11
 
 ---
 
