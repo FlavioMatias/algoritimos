@@ -13,6 +13,7 @@
   O algoritmo realiza uma busca verificando se o número procurado é igual ao elemento no índice do meio de um intervalo. Caso contrário:
   - Se o número for menor, a busca continua nos índices abaixo do meio.
   - Se for maior, a busca continua nos índices acima do meio.
+    
   O processo se repete até encontrar o número ou retornar -1 (caso o número não esteja presente).
 
 ---
